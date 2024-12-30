@@ -2,6 +2,11 @@
 This repository collects the latest and most useful resources and notes about coding with AI. 
 本倉庫收集了關於AI輔助開發的最新且最有用的資源和筆記。
 
+### Recommended AI Coding Models (推薦的AI編程模型) - as of 2024-12-30 (2024-12-30 更新)
+- [Claude 3.5 Sonnet](https://www.anthropic.com/en/products/claude-3-5-sonnet) - best for Cursor. 最適合Cursor。
+- [DeepSeek V3](https://www.deepseek.com/deepseek-v3) - best for bolt.diy. 最適合bolt.diy。
+- [Gemini 2.0](https://gemini.google.com/) - best for bolt.diy. 最適合bolt.diy。
+
 ### Building tools (開發工具)
 
 #### AI code editor (AI代碼編輯器)
@@ -72,7 +77,7 @@ Analogy (類比)：
     - [别被"5分钟写个App"误导：Cursor深度实践](https://mp.weixin.qq.com/s/JVb7-4a2XOFhfeJusaxvFg)
 
 - [AICodeKing](https://www.youtube.com/@AICodeKing)
-    - [bolt.diy + Deepseek V3](https://www.youtube.com/watch?v=6BXj2ufYixY) - a very good tutorial on how to deploy bolt.diy and use Deepseek V3. 一個很好的教程，介紹如何部署bolt.diy並使用Deepseek V3。
+    - [bolt.diy + DeepSeek V3](https://www.youtube.com/watch?v=6BXj2ufYixY) - a very good tutorial on how to deploy bolt.diy and use DeepSeek V3. 一個很好的教程，介紹如何部署bolt.diy並使用DeepSeek V3。
 
 ### Cursor Prompts (Cursor提示詞)
 - [cursor.directory](https://cursor.directory/) - 收集了Cursor的提示詞。
