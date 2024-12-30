@@ -4,8 +4,8 @@ This repository collects the latest and most useful resources and notes about co
 
 ### Recommended AI Coding Models (推薦的AI編程模型) - as of 2024-12-30 (2024-12-30 更新)
 - [Claude 3.5 Sonnet](https://www.anthropic.com/en/products/claude-3-5-sonnet) - best for Cursor. 最適合Cursor。
-- [DeepSeek V3](https://www.deepseek.com/deepseek-v3) - best for bolt.diy. 最適合bolt.diy。
-- [Gemini 2.0](https://gemini.google.com/) - best for bolt.diy. 最適合bolt.diy。
+- [DeepSeek V3](https://www.deepseek.com/deepseek-v3) - best for bolt.diy / VS Code with cline. 最適合bolt.diy / VS Code with cline。
+- [Gemini 2.0](https://gemini.google.com/) - best for bolt.diy / VS Code with cline. 最適合bolt.diy / VS Code with cline。
 
 ### Building tools (開發工具)
 
