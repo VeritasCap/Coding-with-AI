@@ -8,6 +8,7 @@ This repository collects the latest and most useful resources and notes about co
 - [Cursor](https://www.cursor.com/) - A highly recommended AI code editor, ideal for beginners and experts alike. 強烈推薦的AI代碼編輯器，適合初學者和專家使用。
 - [VS Code](https://code.visualstudio.com/) - The most popular code editor. 最流行的代碼編輯器。However, AI capabilities require extensions like [cline](https://github.com/cline/cline) or [GitHub Copilot](https://github.com/features/copilot). Currently not as AI-capable as Cursor. 但需要安裝如[cline](https://github.com/cline/cline)或[GitHub Copilot](https://github.com/features/copilot)等擴展才能使用AI功能。目前的AI能力不如Cursor。
 - [bolt.new](https://bolt.new/) - Ideal for rapid prototyping. 最適合快速原型開發。
+    - [bolt.diy](https://github.com/stackblitz-labs/bolt.diy) - A fork of bolt.new, which supports using API keys. 一個bolt.new的分支，支持使用API密鑰。
 - [v0](https://v0.dev/) - Specialized in rapid UI prototyping and design. 專門用於快速UI原型設計。
 
 #### IDE for specific platforms (特定平台的IDE)
@@ -52,6 +53,7 @@ Analogy (類比)：
 - [Supabase](https://supabase.com/) - An open-source Firebase alternative. 開源的Firebase替代方案。
 
 ### AI Coding Tutorials (AI代碼編寫教程)
+
 - [Corbin Brown](https://www.youtube.com/@Corbin_Brown)
     - [Watch this before you learn to code with AI](https://www.youtube.com/watch?v=RcrG0_m1Ic0) - setting your expectations. 在學習AI代碼編寫之前觀看這個視頻，設定你的期望。
     - [Web app front end](https://www.youtube.com/watch?v=-tnPCI5RdNA) - long form tutorial. 長篇教程。
@@ -64,10 +66,13 @@ Analogy (類比)：
     - [使用 Cursor 实现纯 CSS 啤酒动效](https://linux.do/t/topic/230227)
     - [一些关于 Cursor 的使用技巧](https://linux.do/t/topic/172395)
     - [Cursor 技巧（第二弹）](https://linux.do/t/topic/181361)
-    - [LookAI Cursor教程](https://www.lookai.top/cn/cursor/instruction/instruction) - 中文教程。
+    - [LookAI Cursor教程](https://www.lookai.top/cn/cursor/instruction/instruction)
     - [Cursor 101](https://cursor101.com/zh)
     - [Learn Cursor](https://learn-cursor.com/)
     - [别被"5分钟写个App"误导：Cursor深度实践](https://mp.weixin.qq.com/s/JVb7-4a2XOFhfeJusaxvFg)
+
+- [AICodeKing](https://www.youtube.com/@AICodeKing)
+    - [bolt.diy + Deepseek V3](https://www.youtube.com/watch?v=6BXj2ufYixY) - a very good tutorial on how to deploy bolt.diy and use Deepseek V3. 一個很好的教程，介紹如何部署bolt.diy並使用Deepseek V3。
 
 ### Cursor Prompts (Cursor提示詞)
 - [cursor.directory](https://cursor.directory/) - 收集了Cursor的提示詞。
