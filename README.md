@@ -1,48 +1,48 @@
 # Coding with AI (AI輔助開發)
-This depository collects the latest and most useful resources and notes about coding with AI. 
+This repository collects the latest and most useful resources and notes about coding with AI. 
 本倉庫收集了關於AI輔助開發的最新且最有用的資源和筆記。
 
 ### Building tools (開發工具)
 
 #### AI code editor (AI代碼編輯器)
-- [Cursor](https://www.cursor.com/) - My personal favorite AI code editor. If you don't know which one to start with, this is a great choice. 我最喜歡的AI代碼編輯器。如果你不知道從哪裡開始，這是一個很好的選擇。
-- [VS Code](https://code.visualstudio.com/) - The most popular code editor. 最流行的代碼編輯器。However you need to install extensions such as [cline](https://github.com/cline/cline) or [GitHub Copilot](https://github.com/features/copilot) to use AI. My personal experience is that it's not as good as Cursor at this stage.
-- [bolt.new](https://bolt.new/) - good for quick prototyping.
-- [v0](https://v0.dev/) - good for quick prototyping and UI design.
+- [Cursor](https://www.cursor.com/) - A highly recommended AI code editor, ideal for beginners and experts alike. 強烈推薦的AI代碼編輯器，適合初學者和專家使用。
+- [VS Code](https://code.visualstudio.com/) - The most popular code editor. 最流行的代碼編輯器。However, AI capabilities require extensions like [cline](https://github.com/cline/cline) or [GitHub Copilot](https://github.com/features/copilot). Currently not as AI-capable as Cursor. 但需要安裝如[cline](https://github.com/cline/cline)或[GitHub Copilot](https://github.com/features/copilot)等擴展才能使用AI功能。目前的AI能力不如Cursor。
+- [bolt.new](https://bolt.new/) - Ideal for rapid prototyping. 最適合快速原型開發。
+- [v0](https://v0.dev/) - Specialized in rapid UI prototyping and design. 專門用於快速UI原型設計。
 
 #### IDE for specific platforms (特定平台的IDE)
-- [Xcode](https://developer.apple.com/xcode/) - The most popular code editor for macOS.
-- [Android Studio](https://developer.android.com/studio) - The most popular code editor for Android.
-- [Wechat IDE](https://ide.wechat.com/) - The most popular code editor for Wechat Mini Programs.
+- [Xcode](https://developer.apple.com/xcode/) - The primary development environment for macOS. macOS主要的開發環境。
+- [Android Studio](https://developer.android.com/studio) - The official IDE for Android development. Android官方的開發環境。
+- [Wechat IDE](https://ide.wechat.com/) - The dedicated editor for WeChat Mini Programs. 微信小程序專用的開發環境。
 
 ### Frontend (前端)
 
 #### Web development (網頁端開發)
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [TypeScript](https://www.typescriptlang.org/)
-- [React](https://react.dev/) - The most popular JavaScript library for building user interfaces.
-- [Next.js](https://nextjs.org/) - The React framework for production.
-- [Tailwind CSS](https://tailwindcss.com/) - A utility-first CSS framework for rapidly building custom designs.
-- [Shadcn](https://ui.shadcn.com/) - A component library for building modern web applications.
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - The foundational programming language for web development. 網頁開發的基礎程式語言。
+- [TypeScript](https://www.typescriptlang.org/) - A typed superset of JavaScript enhancing code reliability. JavaScript的類型化超集，提升代碼可靠性。
+- [React](https://react.dev/) - The leading JavaScript library for building user interfaces. 領先的使用者介面開發JavaScript函式庫。
+- [Next.js](https://nextjs.org/) - A production-ready React framework. 適用於生產環境的React框架。
+- [Tailwind CSS](https://tailwindcss.com/) - A utility-first CSS framework for efficient design implementation. 實用性導向的CSS框架，用於高效設計實現。
+- [Shadcn](https://ui.shadcn.com/) - A modern component library for sophisticated web applications. 用於構建精緻網頁應用的現代元件庫。
 
 Analogy (類比)：
 
-🏗️ 如果開發網站像蓋房子，那麼：
-- **JavaScript** = 基础建筑材料
-- **TypeScript** = 带质量检测的建筑材料
-- **React** = 建筑工具和施工方法
-- **Next.js** = 完整的建筑解决方案
-- **Tailwind** = 装修材料目录
-- **shadcn/ui** = 现成的装修模块
+🏗️ If building a website is like building a house, then: / 如果開發網站像蓋房子，那麼：
+- **JavaScript** = Basic building materials / 基礎建材
+- **TypeScript** = Quality-assured materials / 品質保證的建材
+- **React** = Construction methodology / 建築工法
+- **Next.js** = Complete construction system / 完整營建系統
+- **Tailwind** = Interior design catalogue / 室內設計目錄
+- **shadcn/ui** = Pre-fabricated modules / 預製裝潢模組
 
-🎨 如果開發網站像畫畫，那麼：
-- **JavaScript** = 普通铅笔
-- **TypeScript** = 带橡皮的铅笔
-- **React** = 画画的模板
-- **Next.js** = 完整画具套装
-- **Tailwind** = 调色板
-- **shadcn/ui** = 现成贴纸
+🎨 If building a website is like painting, then: / 如果開發網站像畫畫，那麼：
+- **JavaScript** = Basic pencil / 基本鉛筆
+- **TypeScript** = Professional pencil set / 專業鉛筆組
+- **React** = Artist's templates / 畫家的範本
+- **Next.js** = Complete artist's studio / 完整畫室配備
+- **Tailwind** = Professional color palette / 專業調色盤
+- **shadcn/ui** = Ready-to-use art elements / 現成藝術元素
 
 ### Backend (後端)
-- [Firebase](https://firebase.google.com/)
-- [Supabase](https://supabase.com/)
+- [Firebase](https://firebase.google.com/) - Google's comprehensive app development platform. Google的全方位應用開發平台。
+- [Supabase](https://supabase.com/) - An open-source Firebase alternative. 開源的Firebase替代方案。
