@@ -50,3 +50,8 @@ Analogy (類比)：
 ### Backend (後端)
 - [Firebase](https://firebase.google.com/) - Google's comprehensive app development platform. Google的全方位應用開發平台。
 - [Supabase](https://supabase.com/) - An open-source Firebase alternative. 開源的Firebase替代方案。
+
+#### AI Coding Tutorials (AI代碼編寫教程)
+- [Corbin Brown](https://www.youtube.com/@Corbin_Brown)
+
+[Watch this before you learn to code with AI](https://www.youtube.com/watch?v=RcrG0_m1Ic0)
