@@ -54,4 +54,6 @@ Analogy (類比)：
 #### AI Coding Tutorials (AI代碼編寫教程)
 - [Corbin Brown](https://www.youtube.com/@Corbin_Brown)
 
-[Watch this before you learn to code with AI](https://www.youtube.com/watch?v=RcrG0_m1Ic0)
+[Watch this before you learn to code with AI](https://www.youtube.com/watch?v=RcrG0_m1Ic0) - setting your expectations. 在學習AI代碼編寫之前觀看這個視頻，設定你的期望。
+[Web app front end](https://www.youtube.com/watch?v=-tnPCI5RdNA)
+[Back end](https://www.youtube.com/watch?v=oNT2VZGH1ZI)
