@@ -19,6 +19,7 @@ This depository collects the latest and most useful resources and notes about co
 - [Shadcn](https://ui.shadcn.com/) - A component library for building modern web applications.
 
 Analogy (類比)：
+
 🏗️ 如果開發網站像蓋房子，那麼：
 - **JavaScript** = 基础建筑材料
 - **TypeScript** = 带质量检测的建筑材料
