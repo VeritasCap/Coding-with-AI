@@ -11,7 +11,7 @@ This repository collects the latest and most useful resources and notes about co
 - [v0](https://v0.dev/) - Specialized in rapid UI prototyping and design. 專門用於快速UI原型設計。
 
 #### IDE for specific platforms (特定平台的IDE)
-- [Xcode](https://developer.apple.com/xcode/) - The primary development environment for macOS. macOS主要的開發環境。
+- [Xcode](https://developer.apple.com/xcode/) - The primary development environment for iOS and macOS. iOS和macOS主要的開發環境。
 - [Android Studio](https://developer.android.com/studio) - The official IDE for Android development. Android官方的開發環境。
 - [Wechat IDE](https://ide.wechat.com/) - The dedicated editor for WeChat Mini Programs. 微信小程序專用的開發環境。
 
@@ -24,6 +24,10 @@ This repository collects the latest and most useful resources and notes about co
 - [Next.js](https://nextjs.org/) - A production-ready React framework. 適用於生產環境的React框架。
 - [Tailwind CSS](https://tailwindcss.com/) - A utility-first CSS framework for efficient design implementation. 實用性導向的CSS框架，用於高效設計實現。
 - [Shadcn](https://ui.shadcn.com/) - A modern component library for sophisticated web applications. 用於構建精緻網頁應用的現代元件庫。
+
+#### iOS development (iOS開發)
+- [Swift](https://developer.apple.com/swift/) - The primary programming language for iOS and macOS development. iOS和macOS的主要程式語言。
+- [SwiftUI](https://developer.apple.com/xcode/swiftui/) - Apple's declarative UI framework for building iOS and macOS applications. Apple的聲明式UI框架，用於構建iOS和macOS應用。
 
 Analogy (類比)：
 
