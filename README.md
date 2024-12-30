@@ -46,4 +46,3 @@ Analogy (類比)：
 ### Backend (後端)
 - [Firebase](https://firebase.google.com/)
 - [Supabase](https://supabase.com/)
-- [Vercel](https://vercel.com/)
