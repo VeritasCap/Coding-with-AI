@@ -9,7 +9,33 @@ This depository collects the latest and most useful resources and notes about co
 - [v0](https://v0.dev/) - good for quick prototyping and UI design.
 
 ### Frontend (前端)
+
+#### Web development (網頁端開發)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [TypeScript](https://www.typescriptlang.org/)
 - [React](https://react.dev/) - The most popular JavaScript library for building user interfaces.
 - [Next.js](https://nextjs.org/) - The React framework for production.
 - [Tailwind CSS](https://tailwindcss.com/) - A utility-first CSS framework for rapidly building custom designs.
 - [Shadcn](https://ui.shadcn.com/) - A component library for building modern web applications.
+
+Analogy (類比)：
+🏗️ 如果開發網站像蓋房子，那麼：
+- **JavaScript** = 基础建筑材料
+- **TypeScript** = 带质量检测的建筑材料
+- **React** = 建筑工具和施工方法
+- **Next.js** = 完整的建筑解决方案
+- **Tailwind** = 装修材料目录
+- **shadcn/ui** = 现成的装修模块
+
+🎨 如果開發網站像畫畫，那麼：
+- **JavaScript** = 普通铅笔
+- **TypeScript** = 带橡皮的铅笔
+- **React** = 画画的模板
+- **Next.js** = 完整画具套装
+- **Tailwind** = 调色板
+- **shadcn/ui** = 现成贴纸
+
+### Backend (後端)
+- [Firebase](https://firebase.google.com/)
+- [Supabase](https://supabase.com/)
+- [Vercel](https://vercel.com/)
