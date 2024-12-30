@@ -56,15 +56,18 @@ Analogy (類比)：
     - [Watch this before you learn to code with AI](https://www.youtube.com/watch?v=RcrG0_m1Ic0) - setting your expectations. 在學習AI代碼編寫之前觀看這個視頻，設定你的期望。
     - [Web app front end](https://www.youtube.com/watch?v=-tnPCI5RdNA) - long form tutorial. 長篇教程。
     - [Back end](https://www.youtube.com/watch?v=oNT2VZGH1ZI) - long form tutorial. 長篇教程。
-- [Cursor食用指南](https://linux.do/t/topic/309566)
-- [我的Cursor使用心得——项目实现](https://linux.do/t/topic/309516)
-- [一些关于 Cursor 的使用技巧](https://linux.do/t/topic/172395)
-- [Cursor 技巧（第二弹）](https://linux.do/t/topic/181361)
-- [LookAI Cursor教程](https://www.lookai.top/cn/cursor/instruction/instruction) - 中文教程。
-- [Cursor 101](https://cursor101.com/zh)
-- [Learn Cursor](https://learn-cursor.com/)
-- [别被"5分钟写个App"误导：Cursor深度实践](https://mp.weixin.qq.com/s/JVb7-4a2XOFhfeJusaxvFg)
 
+- [LINUX DO](https://linux.do/)
+    - [Cursor食用指南](https://linux.do/t/topic/309566)
+    - [我的Cursor使用心得——项目实现](https://linux.do/t/topic/309516)
+    - [一个如何最大化利用cursor工具的技巧来节省对话次数](https://linux.do/t/topic/301652)
+    - [使用 Cursor 实现纯 CSS 啤酒动效](https://linux.do/t/topic/230227)
+    - [一些关于 Cursor 的使用技巧](https://linux.do/t/topic/172395)
+    - [Cursor 技巧（第二弹）](https://linux.do/t/topic/181361)
+    - [LookAI Cursor教程](https://www.lookai.top/cn/cursor/instruction/instruction) - 中文教程。
+    - [Cursor 101](https://cursor101.com/zh)
+    - [Learn Cursor](https://learn-cursor.com/)
+    - [别被"5分钟写个App"误导：Cursor深度实践](https://mp.weixin.qq.com/s/JVb7-4a2XOFhfeJusaxvFg)
 
 ### Cursor Prompts (Cursor提示詞)
 - [cursor.directory](https://cursor.directory/) - 收集了Cursor的提示詞。
