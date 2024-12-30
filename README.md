@@ -9,3 +9,7 @@ This depository collects the latest and most useful resources and notes about co
 - [v0](https://v0.dev/) - good for quick prototyping and UI design.
 
 ### Frontend (前端)
+- [React](https://react.dev/) - The most popular JavaScript library for building user interfaces.
+- [Next.js](https://nextjs.org/) - The React framework for production.
+- [Tailwind CSS](https://tailwindcss.com/) - A utility-first CSS framework for rapidly building custom designs.
+- [Shadcn](https://ui.shadcn.com/) - A component library for building modern web applications.
