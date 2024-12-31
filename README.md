@@ -11,6 +11,7 @@ This repository collects the latest and most useful resources and notes about co
 
 #### AI code editor (AI代碼編輯器)
 - [Cursor](https://www.cursor.com/) - A highly recommended AI code editor, ideal for beginners and experts alike. 強烈推薦的AI代碼編輯器，適合初學者和專家使用。
+- [Windsurf](https://codeium.com/windsurf) - Cursor competitor. Cursor競爭對手。
 - [VS Code](https://code.visualstudio.com/) - The most popular code editor. 最流行的代碼編輯器。However, AI capabilities require extensions like [cline](https://github.com/cline/cline) or [GitHub Copilot](https://github.com/features/copilot). Currently not as AI-capable as Cursor. 但需要安裝如[cline](https://github.com/cline/cline)或[GitHub Copilot](https://github.com/features/copilot)等擴展才能使用AI功能。目前的AI能力不如Cursor。
 - [bolt.new](https://bolt.new/) - Ideal for rapid prototyping. 最適合快速原型開發。
     - [bolt.diy](https://github.com/stackblitz-labs/bolt.diy) - A fork of bolt.new, which supports using API keys. 一個bolt.new的分支，支持使用API密鑰。
@@ -23,7 +24,7 @@ This repository collects the latest and most useful resources and notes about co
 
 ### Frontend (前端)
 
-#### Web development (網頁端開發)
+#### Web development framework (網頁端開發框架)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - The foundational programming language for web development. 網頁開發的基礎程式語言。
 - [TypeScript](https://www.typescriptlang.org/) - A typed superset of JavaScript enhancing code reliability. JavaScript的類型化超集，提升代碼可靠性。
 - [React](https://react.dev/) - The leading JavaScript library for building user interfaces. 領先的使用者介面開發JavaScript函式庫。
@@ -53,16 +54,20 @@ Analogy (類比)：
 - **Tailwind** = Professional color palette / 專業調色盤
 - **shadcn/ui** = Ready-to-use art elements / 現成藝術元素
 
+#### UI/UX design (UI/UX設計)
+- [Figma](https://www.figma.com/) - The leading UI design tool. 領先的UI設計工具。
+- [Magic UI](https://www.magicui.com/)
+
 ### Backend (後端)
 - [Firebase](https://firebase.google.com/) - Google's comprehensive app development platform. Google的全方位應用開發平台。
 - [Supabase](https://supabase.com/) - An open-source Firebase alternative. 開源的Firebase替代方案。
 
 ### AI Coding Tutorials (AI代碼編寫教程)
 
-- [Corbin Brown](https://www.youtube.com/@Corbin_Brown)
-    - [Watch this before you learn to code with AI](https://www.youtube.com/watch?v=RcrG0_m1Ic0) - setting your expectations. 在學習AI代碼編寫之前觀看這個視頻，設定你的期望。
-    - [Web app front end](https://www.youtube.com/watch?v=-tnPCI5RdNA) - long form tutorial. 長篇教程。
-    - [Back end](https://www.youtube.com/watch?v=oNT2VZGH1ZI) - long form tutorial. 長篇教程。
+#### Basic tutorials (基礎教程)
+
+- [Watch this before you learn to code with AI](https://www.youtube.com/watch?v=RcrG0_m1Ic0) - setting your expectations. 在學習AI代碼編寫之前觀看這個視頻，設定你的期望。
+- [bolt.diy + DeepSeek V3](https://www.youtube.com/watch?v=6BXj2ufYixY) - a very good tutorial on how to deploy bolt.diy and use DeepSeek V3. 一個很好的教程，介紹如何部署bolt.diy並使用DeepSeek V3。
 
 - [LINUX DO](https://linux.do/)
     - [Cursor食用指南](https://linux.do/t/topic/309566)
@@ -76,8 +81,13 @@ Analogy (類比)：
     - [Learn Cursor](https://learn-cursor.com/)
     - [别被"5分钟写个App"误导：Cursor深度实践](https://mp.weixin.qq.com/s/JVb7-4a2XOFhfeJusaxvFg)
 
-- [AICodeKing](https://www.youtube.com/@AICodeKing)
-    - [bolt.diy + DeepSeek V3](https://www.youtube.com/watch?v=6BXj2ufYixY) - a very good tutorial on how to deploy bolt.diy and use DeepSeek V3. 一個很好的教程，介紹如何部署bolt.diy並使用DeepSeek V3。
+- 微信公眾號
+	- [Cursor 深度评测：革命性提效工具还是过誉的玩具？](https://mp.weixin.qq.com/s/oobp66ylUzAnJUtwEB64Fw)
+    
+#### Practical tutorials (實用教程)
+
+- [Corbin Brown: Web app front end](https://www.youtube.com/watch?v=-tnPCI5RdNA) - long form tutorial. 長篇教程。
+- [Corbin Brown: Back end](https://www.youtube.com/watch?v=oNT2VZGH1ZI) - long form tutorial. 長篇教程。
 
 ### Cursor Prompts (Cursor提示詞)
 - [cursor.directory](https://cursor.directory/) - 收集了Cursor的提示詞。
