@@ -88,6 +88,7 @@ Analogy (類比)：
 
 - [Corbin Brown: Web app front end](https://www.youtube.com/watch?v=-tnPCI5RdNA) - long form tutorial. 長篇教程。
 - [Corbin Brown: Back end](https://www.youtube.com/watch?v=oNT2VZGH1ZI) - long form tutorial. 長篇教程。
+- [Instant Landing Pages with Cursor + Magic UI](https://www.youtube.com/watch?v=UGm8djxwC5s)
 
 ### Cursor Prompts (Cursor提示詞)
 - [cursor.directory](https://cursor.directory/) - 收集了Cursor的提示詞。
