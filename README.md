@@ -84,11 +84,12 @@ Analogy (類比)：
 - 微信公眾號
 	- [Cursor 深度评测：革命性提效工具还是过誉的玩具？](https://mp.weixin.qq.com/s/oobp66ylUzAnJUtwEB64Fw)
     
-#### Practical tutorials (實用教程)
+#### Practical tutorials (實用教程) - I just love watching full walkthroughs. 我超愛看完整的教程。
 
 - [Corbin Brown: Web app front end](https://www.youtube.com/watch?v=-tnPCI5RdNA) - long form tutorial. 長篇教程。
 - [Corbin Brown: Back end](https://www.youtube.com/watch?v=oNT2VZGH1ZI) - long form tutorial. 長篇教程。
 - [Instant Landing Pages with Cursor + Magic UI](https://www.youtube.com/watch?v=UGm8djxwC5s)
+- [Riley Brown: I Built an AI Powered Writing App With Zero Coding](https://www.youtube.com/watch?v=i-5bFCDvk-Q)
 
 ### Cursor Prompts (Cursor提示詞)
 - [cursor.directory](https://cursor.directory/) - 收集了Cursor的提示詞。
