@@ -94,10 +94,15 @@ Analogy (類比)：
 
 - [Corbin Brown: Web app front end](https://www.youtube.com/watch?v=-tnPCI5RdNA) - long form tutorial. 長篇教程。
 - [Corbin Brown: Back end](https://www.youtube.com/watch?v=oNT2VZGH1ZI) - long form tutorial. 長篇教程。
-- [Ras Mic: How to Build Web Apps using v0 + Claude AI + Cursor AI](https://www.youtube.com/watch?v=grc0YSEdUQY)
+- [Ras Mic: How to Build Web Apps using v0 + Claude AI + Cursor AI](https://www.youtube.com/watch?v=grc0YSEdUQY) - recommended a framework for building web apps. 推薦一個用於構建網頁應用的框架:
+    - v0 (Build UI & Components) 構建UI和元件
+    - Claude AI (Structure and organize codebase) 組織和結構化代碼庫
+    - Cursor AI (Add features + debug) 添加功能和調試
+- [Ras Mic: How to Build a SAAS using Bolt.New (Use the LAPP Framework)](https://www.youtube.com/watch?v=ZG0mIX6aAWQ)
 - [Instant Landing Pages with Cursor + Magic UI](https://www.youtube.com/watch?v=UGm8djxwC5s)
 - [Riley Brown: I Built an AI Powered Writing App With Zero Coding](https://www.youtube.com/watch?v=i-5bFCDvk-Q)
 - [Riley Brown: I Built an AI Thumbnail Generator with Cursor without Coding](https://www.youtube.com/watch?v=YPXPuK58o38)
+- [Riley Brown: From Screenshot to Landing Page in 18 minutes using AI](https://www.youtube.com/watch?v=MGd4AJc-aQk)
 - [1000x Cursor workflow for building apps](https://www.youtube.com/watch?v=jzhANqD_VhM) - best tutorial so far for setting up environment for iOS development on Cursor. 迄今為止最好的教程，用於在Cursor上設置iOS開發環境。
 - [Zhu的AI日記](https://www.youtube.com/@zhuhaofunAI) - includes a few practical tutorials. 包括幾個實用教程。
 
