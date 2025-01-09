@@ -74,6 +74,7 @@ Analogy (類比)：
     - tailwindcss (Styling) 樣式
     - supabase (Database) 資料庫
 - [bolt.diy + DeepSeek V3](https://www.youtube.com/watch?v=6BXj2ufYixY) - a very good tutorial on how to deploy bolt.diy and use DeepSeek V3. 一個很好的教程，介紹如何部署bolt.diy並使用DeepSeek V3。
+- [Build a fullstakc app in 7 minutes with v0 (Figma to code)](https://www.youtube.com/watch?v=cyFVtaLy-bA)
 
 - [LINUX DO](https://linux.do/)
     - [Cursor食用指南](https://linux.do/t/topic/309566)
@@ -105,6 +106,7 @@ Analogy (類比)：
 - [Riley Brown: From Screenshot to Landing Page in 18 minutes using AI](https://www.youtube.com/watch?v=MGd4AJc-aQk)
 - [1000x Cursor workflow for building apps](https://www.youtube.com/watch?v=jzhANqD_VhM) - best tutorial so far for setting up environment for iOS development on Cursor. 迄今為止最好的教程，用於在Cursor上設置iOS開發環境。
 - [Zhu的AI日記](https://www.youtube.com/@zhuhaofunAI) - includes a few practical tutorials. 包括幾個實用教程。
+- [Inside the Brain of a 17-yr-old AI Founder](https://www.youtube.com/watch?v=ZNIoIX0O-20) - interesting tutorial. 有趣的教程。
 
 ### Cursor Prompts (Cursor提示詞)
 - [cursor.directory](https://cursor.directory/) - 收集了Cursor的提示詞。
