@@ -68,6 +68,11 @@ Analogy (類比)：
 
 - [Watch this before you learn to code with AI](https://www.youtube.com/watch?v=RcrG0_m1Ic0) - setting your expectations. 在學習AI代碼編寫之前觀看這個視頻，設定你的期望。
 - [Riley Brown:Beginners Guide to Coding with AI](https://www.youtube.com/watch?v=TmLkFnduWWo) - pretty good on the basics. 非常不錯的基礎教程。
+- [Cursor AI The Cheat Sheet Tutorial](https://www.youtube.com/watch?v=2tb6mJt1HeU) - a very good tutorial on how to use Cursor. 一個很好的教程，介紹如何使用Cursor。Recommended using: 推薦使用：
+    - Next.js (Front End Web) 前端網頁
+    - Shadcn UI (Components) 元件
+    - tailwindcss (Styling) 樣式
+    - supabase (Database) 資料庫
 - [bolt.diy + DeepSeek V3](https://www.youtube.com/watch?v=6BXj2ufYixY) - a very good tutorial on how to deploy bolt.diy and use DeepSeek V3. 一個很好的教程，介紹如何部署bolt.diy並使用DeepSeek V3。
 
 - [LINUX DO](https://linux.do/)
@@ -89,10 +94,11 @@ Analogy (類比)：
 
 - [Corbin Brown: Web app front end](https://www.youtube.com/watch?v=-tnPCI5RdNA) - long form tutorial. 長篇教程。
 - [Corbin Brown: Back end](https://www.youtube.com/watch?v=oNT2VZGH1ZI) - long form tutorial. 長篇教程。
+- [Ras Mic: How to Build Web Apps using v0 + Claude AI + Cursor AI](https://www.youtube.com/watch?v=grc0YSEdUQY)
 - [Instant Landing Pages with Cursor + Magic UI](https://www.youtube.com/watch?v=UGm8djxwC5s)
 - [Riley Brown: I Built an AI Powered Writing App With Zero Coding](https://www.youtube.com/watch?v=i-5bFCDvk-Q)
 - [Riley Brown: I Built an AI Thumbnail Generator with Cursor without Coding](https://www.youtube.com/watch?v=YPXPuK58o38)
-- [1000x Cursor workflow for building apps](https://www.youtube.com/watch?v=jzhANqD_VhM)
+- [1000x Cursor workflow for building apps](https://www.youtube.com/watch?v=jzhANqD_VhM) - best tutorial so far for setting up environment for iOS development on Cursor. 迄今為止最好的教程，用於在Cursor上設置iOS開發環境。
 - [Zhu的AI日記](https://www.youtube.com/@zhuhaofunAI) - includes a few practical tutorials. 包括幾個實用教程。
 
 ### Cursor Prompts (Cursor提示詞)
