@@ -67,6 +67,7 @@ Analogy (類比)：
 #### Basic tutorials (基礎教程)
 
 - [Watch this before you learn to code with AI](https://www.youtube.com/watch?v=RcrG0_m1Ic0) - setting your expectations. 在學習AI代碼編寫之前觀看這個視頻，設定你的期望。
+- [Riley Brown:Beginners Guide to Coding with AI](https://www.youtube.com/watch?v=TmLkFnduWWo) - pretty good on the basics. 非常不錯的基礎教程。
 - [bolt.diy + DeepSeek V3](https://www.youtube.com/watch?v=6BXj2ufYixY) - a very good tutorial on how to deploy bolt.diy and use DeepSeek V3. 一個很好的教程，介紹如何部署bolt.diy並使用DeepSeek V3。
 
 - [LINUX DO](https://linux.do/)
@@ -90,6 +91,9 @@ Analogy (類比)：
 - [Corbin Brown: Back end](https://www.youtube.com/watch?v=oNT2VZGH1ZI) - long form tutorial. 長篇教程。
 - [Instant Landing Pages with Cursor + Magic UI](https://www.youtube.com/watch?v=UGm8djxwC5s)
 - [Riley Brown: I Built an AI Powered Writing App With Zero Coding](https://www.youtube.com/watch?v=i-5bFCDvk-Q)
+- [Riley Brown: I Built an AI Thumbnail Generator with Cursor without Coding](https://www.youtube.com/watch?v=YPXPuK58o38)
+- [1000x Cursor workflow for building apps](https://www.youtube.com/watch?v=jzhANqD_VhM)
+- [Zhu的AI日記](https://www.youtube.com/@zhuhaofunAI) - includes a few practical tutorials. 包括幾個實用教程。
 
 ### Cursor Prompts (Cursor提示詞)
 - [cursor.directory](https://cursor.directory/) - 收集了Cursor的提示詞。
