@@ -12,6 +12,8 @@ This repository collects the latest and most useful resources and notes about co
 #### AI code editor (AI代碼編輯器)
 - [Cursor](https://www.cursor.com/) - A highly recommended AI code editor, ideal for beginners and experts alike. 強烈推薦的AI代碼編輯器，適合初學者和專家使用。
 - [Windsurf](https://codeium.com/windsurf) - Cursor competitor. Cursor競爭對手。
+- [Alex Sidebar](https://alexcodes.app/) - Cursor for Swift coding. 適用於Swift開發的Cursor。
+- [Trae](https://www.trae.ai/) - A new AI code editor launched by ByteDance. 一個新的AI代碼編輯器，由字節跳動推出。
 - [VS Code](https://code.visualstudio.com/) - The most popular code editor. 最流行的代碼編輯器。However, AI capabilities require extensions like [cline](https://github.com/cline/cline) or [GitHub Copilot](https://github.com/features/copilot). Currently not as AI-capable as Cursor. 但需要安裝如[cline](https://github.com/cline/cline)或[GitHub Copilot](https://github.com/features/copilot)等擴展才能使用AI功能。目前的AI能力不如Cursor。
 - [bolt.new](https://bolt.new/) - Ideal for rapid prototyping. 最適合快速原型開發。
     - [bolt.diy](https://github.com/stackblitz-labs/bolt.diy) - A fork of bolt.new, which supports using API keys. 一個bolt.new的分支，支持使用API密鑰。
@@ -110,3 +112,4 @@ Analogy (類比)：
 
 ### Cursor Prompts (Cursor提示詞)
 - [cursor.directory](https://cursor.directory/) - 收集了Cursor的提示詞。
+- [awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 收集了Cursor的提示詞。
